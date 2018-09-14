@@ -1,0 +1,37 @@
+#################################################
+#                                               #
+#             Reference Material                #
+#                                               #
+#################################################
+#   Last Updated on 9/14/18                     #
+#   Created by Mksipe                           #
+###################################################################################################
+#                                               # Type: APT source list                           #
+#                   Apt Sourcefile              #                                                 #
+#                                               # hosted file: /etc/apt/sources.list              #
+###################################################################################################
+#
+# This is framework here is the setup you'll need.
+# Ubuntu 18.10 Cosmic Cuttlefish 
+# Ubuntu 18.04.1 LTS Bionic Beaver
+# Ubuntu 10.04 LTS Bionic Beaver
+# Ubuntu 16.04.4 Xenial Xerus
+# Ubuntu 16.04.3 Xenial Xerus
+# Ubuntu 16.04.2 Xenial Xerus
+# Ubuntu 16.04.1 Xenial Xerus
+# Ubuntu 16.04 Xenial Xerus
+# Ubuntu 14.04.5 Trusty Tahr
+# Ubuntu 14.04.4 Trusty Tahr
+# Ubuntu 14.04.3 Trusty Tahr
+# Ubuntu 14.04.2 Trusty Tahr
+# Ubuntu 14.04.1 Trusty Tahr
+# Ubuntu 14.04 Trusty Tahr
+# Debian 11 Bullseye
+# Debian 1p Buster
+# Debian 9 Stretch 
+# Debuan 8 jessie
+# Debian 7 Wheezy
+# Debian 6.0 Squeeze
+# Debian 5.0 Leny
+#
+### Debian keeps getting lower though im not gonna continue since they are less common.
